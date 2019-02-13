@@ -1,0 +1,6 @@
+com/uipurpose/detailsapp/repositories/UserRepository.class
+com/uipurpose/detailsapp/DetailsappApplication.class
+com/uipurpose/detailsapp/controllers/UserController.class
+com/uipurpose/detailsapp/entities/UserDetails.class
+com/uipurpose/detailsapp/Configurations/CorsConfig.class
+com/uipurpose/detailsapp/services/UserService.class
